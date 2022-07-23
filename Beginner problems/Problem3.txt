@@ -1,0 +1,2 @@
+Problm was solved in BigQuery, voici le link
+https://console.cloud.google.com/bigquery?sq=800554299564:66a5ef59008640edaebe44004c05b1d6
